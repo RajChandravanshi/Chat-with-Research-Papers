@@ -74,3 +74,4 @@ Here’s the step-by-step process:
   - Conclusion  
 
 📌 Tool: HuggingFaceEndpoint + Prompt Engineering
+![Logo](./image/Chat with Paper.png)
