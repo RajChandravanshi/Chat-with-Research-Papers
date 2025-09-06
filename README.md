@@ -76,9 +76,6 @@ Here’s the step-by-step process:
 📌 Tool: HuggingFaceEndpoint + Prompt Engineering
 
 
-<p align="center">
-  <img src="./image/image_1.png" alt="Logo" width="300"/>
-</p>
 
 ![Logo](./Image/image_1.png)
 
