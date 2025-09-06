@@ -80,5 +80,5 @@ Here’s the step-by-step process:
   <img src="./image/image_1.png" alt="Logo" width="300"/>
 </p>
 
-![Logo](./image/image_1.png)
+![Logo](./Image/image_1.png)
 
